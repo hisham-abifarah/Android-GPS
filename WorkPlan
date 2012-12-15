@@ -1,1 +1,17 @@
 What will the lecture contain, Headlines.
+
+Work Plan:
+
+1. GPS Introduction
+
+2.  How does GPS work in android
+	2.a Location based services
+	2.b Location Providers
+	2.c .Longitude/Latitude
+	2.d Geocoding / Reverse Geocoding
+	2.e MapView, MapActivity
+
+3.Demo: pin points location during lecture presentation.
+
+note: will need an active and steady internet connection to present the demo.
+will have 3g tethering from laptop to my phone but 3g signal in class is weak
